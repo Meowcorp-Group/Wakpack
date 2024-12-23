@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/jei/jei-client.ini"
+hash = "94d11fd1200ede5773ed7d45ccea5e16d4839d4f922b442883be44d068bcc1e4"
+
+[[files]]
 file = "mods/advanced-netherite.pw.toml"
 hash = "23d1f02609141455a96cbe51a39992598616606aa10a82b199c77b0b99699fbe"
 metafile = true
@@ -73,6 +77,11 @@ metafile = true
 [[files]]
 file = "mods/cofh-core.pw.toml"
 hash = "2851d6afaaef7a6295ad252746fd4d200e96f7e85c24f11dca9be06ad221b41b"
+metafile = true
+
+[[files]]
+file = "mods/configured.pw.toml"
+hash = "c1bdeff356cd2ac164e2c0e6d0ceeda234db9774c2df44fb9f0e71d3960cc3f1"
 metafile = true
 
 [[files]]
