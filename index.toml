@@ -95,13 +95,33 @@ hash = "2851d6afaaef7a6295ad252746fd4d200e96f7e85c24f11dca9be06ad221b41b"
 metafile = true
 
 [[files]]
+file = "mods/comforts.pw.toml"
+hash = "a2c5d820180d2610e5017e3f08957010e30cf05d50ee3180272dac6f969260cf"
+metafile = true
+
+[[files]]
+file = "mods/computer-cartographer.pw.toml"
+hash = "81b4a182487cdeb22bfd608a69bc7de5af7784307ee2d41f3439f9963c565921"
+metafile = true
+
+[[files]]
 file = "mods/configured.pw.toml"
 hash = "c1bdeff356cd2ac164e2c0e6d0ceeda234db9774c2df44fb9f0e71d3960cc3f1"
 metafile = true
 
 [[files]]
+file = "mods/connected-glass.pw.toml"
+hash = "f4406fece3f81c30faabfe3faffa872655c5eff78c1cb467e32853be805d3570"
+metafile = true
+
+[[files]]
 file = "mods/connector.pw.toml"
 hash = "852ee3d5dea735c0c8f4c030edb06164863e7d27eef535c697f86a8b20a1cff0"
+metafile = true
+
+[[files]]
+file = "mods/construction-wand.pw.toml"
+hash = "f0a3b2a75840024a3dfc03dc073b20e61aa41cf939cef2698308029a5f870c35"
 metafile = true
 
 [[files]]
@@ -205,6 +225,11 @@ hash = "6e72f1af6c31a2afeb112f6a7737c37a55ae9c1b076f4ccadbe544849499aa4f"
 metafile = true
 
 [[files]]
+file = "mods/ducky-periphs.pw.toml"
+hash = "a59b8d3f24dca88fc93b11707423719e1350fc68d7a9884ff47b252734b1a05f"
+metafile = true
+
+[[files]]
 file = "mods/estrogen.pw.toml"
 hash = "70ca409fb19b637b29441be86584acc308707ce170418050b11115327a4f124f"
 metafile = true
@@ -217,6 +242,11 @@ metafile = true
 [[files]]
 file = "mods/forgified-fabric-api.pw.toml"
 hash = "55cfba35c153fb922dd2d52b24fa163b040dee11be2fdff6656093a919c69ca0"
+metafile = true
+
+[[files]]
+file = "mods/fusion-connected-textures.pw.toml"
+hash = "21e3dd574b6f66202b2c36b23fabbb985d76f582254b66ee21771556cc34db11"
 metafile = true
 
 [[files]]
@@ -290,6 +320,11 @@ hash = "15d8ae7a30934b8767663c422fa5c59cf964fd94203345f8577a8087f07d3bf5"
 metafile = true
 
 [[files]]
+file = "mods/moonlight.pw.toml"
+hash = "ff49ffc39b6d48dfa0ed98492bba6c9ed313884393ebd644963d46b804e903d1"
+metafile = true
+
+[[files]]
 file = "mods/numismatics.pw.toml"
 hash = "ce5224b0f7ff2789f11b6415a274dce1db7e9870b3d39160987f4838ce0e5d37"
 metafile = true
@@ -297,6 +332,11 @@ metafile = true
 [[files]]
 file = "mods/patchouli.pw.toml"
 hash = "3cf8b0b943ef4e88b788d86284f634d7f3a252b642ac0c5b41c7ef2ff548238f"
+metafile = true
+
+[[files]]
+file = "mods/peripheralium.pw.toml"
+hash = "fac1fc963952e2ca10e21289d27cc3a2629cb0f2f33b8ec33f2d37cf9335fd08"
 metafile = true
 
 [[files]]
@@ -335,6 +375,11 @@ hash = "b8c7497acbf4890b4609b6b20de7affdd3482fc99af975d9ff6b29c075e1d8a7"
 metafile = true
 
 [[files]]
+file = "mods/simply-light.pw.toml"
+hash = "762eced5d260cdbc94f0acc033efd8fe70fdfe5a28bd8d180e0b052de509893f"
+metafile = true
+
+[[files]]
 file = "mods/slice-and-dice.pw.toml"
 hash = "389bde529f3226ae80f2d4f6a65327a12527af80180d472cbc26eb5405d359d7"
 metafile = true
@@ -342,6 +387,21 @@ metafile = true
 [[files]]
 file = "mods/smartbrainlib.pw.toml"
 hash = "b592adf84840a655afc338c00be282ebe451a295a3ef73ec9d6c54e84a7803c2"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "fd4f922cdf37e4b01f8b039d89d813c8caffe1052774071ca7ff107cd8e6364d"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries-squared.pw.toml"
+hash = "b9e7e8f3226aa11ec0d0ed88900c1ad6582fdc8ae029523d81bb604829e4b821"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "21ded7427eed05b00fd5f1fb2c1e5232809113dc9020f612269181cad844a1fb"
 metafile = true
 
 [[files]]
@@ -380,11 +440,26 @@ hash = "5152f3cfbdac5208b0a96852aaa59600c7d0ef577975692e28ad2ca8ca4126f3"
 metafile = true
 
 [[files]]
+file = "mods/toms-peripherals.pw.toml"
+hash = "8f24c32dfb990b6741be6085cc2e478b675bafdb368a059fd431e39f3253af9e"
+metafile = true
+
+[[files]]
 file = "mods/toms-storage.pw.toml"
 hash = "e85962c74927036b8453b532f3ec57e377edb3953e704b505b8ddeeb99e64cf4"
 metafile = true
 
 [[files]]
+file = "mods/unlimitedperipheralworks.pw.toml"
+hash = "0612f569c34af68e0512530dd58b9882fa7433fe6766508a0c3480ca909901a9"
+metafile = true
+
+[[files]]
 file = "mods/zeta.pw.toml"
 hash = "cb92831ae1333084aee2e0582ad76e074ee902f76939b2e2c4d288b831d27f1a"
+metafile = true
+
+[[files]]
+file = "resourcepacks/ducky.pw.toml"
+hash = "34a9df6342862489350f4b1e627bba638ce49c4cd31602b3eaf50987d5145129"
 metafile = true
