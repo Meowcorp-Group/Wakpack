@@ -458,8 +458,3 @@ metafile = true
 file = "mods/zeta.pw.toml"
 hash = "cb92831ae1333084aee2e0582ad76e074ee902f76939b2e2c4d288b831d27f1a"
 metafile = true
-
-[[files]]
-file = "resourcepacks/ducky.pw.toml"
-hash = "34a9df6342862489350f4b1e627bba638ce49c4cd31602b3eaf50987d5145129"
-metafile = true
