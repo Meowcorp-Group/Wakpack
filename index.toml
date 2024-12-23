@@ -6,6 +6,11 @@ hash = "23d1f02609141455a96cbe51a39992598616606aa10a82b199c77b0b99699fbe"
 metafile = true
 
 [[files]]
+file = "mods/advancedperipherals.pw.toml"
+hash = "63833ffe55dc61c65d118669f3ba9d9870310dc2354387cba81011490bc40ccf"
+metafile = true
+
+[[files]]
 file = "mods/ae2.pw.toml"
 hash = "b0d18b0a5c0c1793c3e00c5937f094acc1bd3ed6f7b966aa28b2aae5360cb48e"
 metafile = true
@@ -13,6 +18,16 @@ metafile = true
 [[files]]
 file = "mods/apotheosis.pw.toml"
 hash = "aeb6c7309052bb9bfb096ed6aef11cfab3c4bf3b0a44746b4e249bc0cca8120c"
+metafile = true
+
+[[files]]
+file = "mods/apothic-attributes.pw.toml"
+hash = "7ec91c6a496a122e84c4f0e7737175bf869dda8e046a208ef6e13830ca731378"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "793693a85f3c87d4e899ee0c58deabc53690bf5a70f17343f28fd5063ce8a1e1"
 metafile = true
 
 [[files]]
@@ -46,8 +61,18 @@ hash = "85e384667b89e3851580f924733c686d8cd7fd3ad7f841aca971cb01bd60e4d7"
 metafile = true
 
 [[files]]
+file = "mods/cccbridge.pw.toml"
+hash = "6e680be3cca5047fa566588220045ba76faf90889319c7aff3c03dd450065d20"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "e3dd03e7fec88831974857e2cdded54dd5c5bdcaa3f6d6248c2800e82db4dd41"
+metafile = true
+
+[[files]]
+file = "mods/cofh-core.pw.toml"
+hash = "2851d6afaaef7a6295ad252746fd4d200e96f7e85c24f11dca9be06ad221b41b"
 metafile = true
 
 [[files]]
@@ -76,6 +101,56 @@ hash = "3de1efbe5f32be146bcbe62cd0c8946f8df6935b5f6cdbbdb5f48fc8141ed3d1"
 metafile = true
 
 [[files]]
+file = "mods/jade-addons-forge.pw.toml"
+hash = "3f432b6a6358f773426d01ab360816b2792c2d033eeca8d5595d2af205b22321"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "7f6c0ca162ebadc819fa2fe5d925daec6144d3480a6d75c769a72b8b46b78f9f"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "3c4797a9ade2ad41b4163a8838ad95b27f2b07906bf44f1c05a04c822e44719b"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-professions-jep.pw.toml"
+hash = "051e68cdc04c210afa273cda7e109bea1f08380451593be022db86e6301dff36"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-resources-jer.pw.toml"
+hash = "02977d28acd2089c39dbe5b65fd08e78094fb650b4afc810f757cb5cea1fbda8"
+metafile = true
+
+[[files]]
+file = "mods/justenoughbreeding.pw.toml"
+hash = "1452a856b21b8b84e47c2220bc4e6a410ce5330023f890009a3f84c9046c6d3b"
+metafile = true
+
+[[files]]
+file = "mods/mekanism-additions.pw.toml"
+hash = "171a4c7ae80d35baa806a9ac9a1cc75c9cae20fa3c6b69b252aca3fd38bd591b"
+metafile = true
+
+[[files]]
+file = "mods/mekanism-generators.pw.toml"
+hash = "0ed526a6e70abc7d9ca6acacb9c2400abacfd7848cbb022b7b4eea16241756bd"
+metafile = true
+
+[[files]]
+file = "mods/mekanism-tools.pw.toml"
+hash = "b5cef6c6a0ec3fdcacd6e3c5e1efe368b1c4c3c221dd37c825fb99b61cd65e1c"
+metafile = true
+
+[[files]]
+file = "mods/mekanism.pw.toml"
+hash = "868f03e8f1ed592eb389853c3c5becdc5ac3ca384562e73ed5e62fb6df168e51"
+metafile = true
+
+[[files]]
 file = "mods/patchouli.pw.toml"
 hash = "3cf8b0b943ef4e88b788d86284f634d7f3a252b642ac0c5b41c7ef2ff548238f"
 metafile = true
@@ -92,5 +167,40 @@ metafile = true
 
 [[files]]
 file = "mods/smartbrainlib.pw.toml"
-hash = "bd231c766e25e2f3a5fbfa7e7b8ade2536fed16c3a5574dc30b212dc51a75044"
+hash = "b592adf84840a655afc338c00be282ebe451a295a3ef73ec9d6c54e84a7803c2"
+metafile = true
+
+[[files]]
+file = "mods/thermal-cultivation.pw.toml"
+hash = "6e3b20b2d1af0d1681580879ab0af9d74854d095b273fb3f01d3746118134094"
+metafile = true
+
+[[files]]
+file = "mods/thermal-dynamics.pw.toml"
+hash = "b09197b44ec72d27d10aae73a731314993a7e5b5137c247256c79b1a4128048b"
+metafile = true
+
+[[files]]
+file = "mods/thermal-expansion.pw.toml"
+hash = "21ef66049ba994e620e34e2fab8e99ca27ceef5882f76dbd6c31afed66de89c4"
+metafile = true
+
+[[files]]
+file = "mods/thermal-foundation.pw.toml"
+hash = "876d11fe425ab32015927d63b35fa99b0cc24623916b4ba1951958c8fde5aacd"
+metafile = true
+
+[[files]]
+file = "mods/thermal-innovation.pw.toml"
+hash = "9d3caee351b004fa5fece4e3b434b55181e453f51e49f46b67a71b063928a8e2"
+metafile = true
+
+[[files]]
+file = "mods/thermal-integration.pw.toml"
+hash = "eac18d5d726f61bce8471d9113db5ec642db05b9bb0836a06b491ef97245ade2"
+metafile = true
+
+[[files]]
+file = "mods/thermal-locomotion.pw.toml"
+hash = "5152f3cfbdac5208b0a96852aaa59600c7d0ef577975692e28ad2ca8ca4126f3"
 metafile = true

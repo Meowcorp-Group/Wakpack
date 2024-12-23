@@ -1,0 +1,13 @@
+name = "Mekanism"
+filename = "Mekanism-1.20.1-10.4.12.68.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Ce6I4WUE/versions/8gSCgGlf/Mekanism-1.20.1-10.4.12.68.jar"
+hash-format = "sha512"
+hash = "9d82edba5774e05b4ead02d2ba5097d29827c4408df576b7f4e1bd4dcdbca61b8bb4ba20726ba4b5e4fc68942601356bdec6ab469d8fb583a97f1355c9959d3a"
+
+[update]
+[update.modrinth]
+mod-id = "Ce6I4WUE"
+version = "8gSCgGlf"
