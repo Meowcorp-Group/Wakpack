@@ -1,0 +1,13 @@
+name = "Weapons of miracles"
+filename = "WeaponsOfMiracles-20.1.8.5.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/oWx9p4ug/versions/G7J9uqrc/WeaponsOfMiracles-20.1.8.5.6.jar"
+hash-format = "sha512"
+hash = "f2ae2e9326fe6ea7f21fd958b50d388cfdf6667edaf1ff749c86876e012ae2f11b5e59412f7eff303eb24a22ed4045a541053ee7f94c332c6f91aaaec6bc72eb"
+
+[update]
+[update.modrinth]
+mod-id = "oWx9p4ug"
+version = "G7J9uqrc"
