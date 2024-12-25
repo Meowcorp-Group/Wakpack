@@ -9,10 +9,6 @@ file = "config/jei/jei-client.ini"
 hash = "94d11fd1200ede5773ed7d45ccea5e16d4839d4f922b442883be44d068bcc1e4"
 
 [[files]]
-file = "launch.sh"
-hash = "d437e2d72b43ed4b7cf2b3245d98a386d145986cd2f075cbd7c484e86d27e6a8"
-
-[[files]]
 file = "mods/ad-astra-giselle-addon.pw.toml"
 hash = "dba6250d4074af49f6d335a97418f29cc10d329f9825fc51ab5c125700b845d8"
 metafile = true
