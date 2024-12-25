@@ -99,11 +99,6 @@ hash = "7b91491f4977bac34139188e8a6b3a51c6c752977424e7c4edbe643a19a1f942"
 metafile = true
 
 [[files]]
-file = "mods/battle-arts-api.pw.toml"
-hash = "a05184430833a5d24cf2dc9d5f0793a4f19ad9ef654d37a085d1aaf988beaef5"
-metafile = true
-
-[[files]]
 file = "mods/bellsandwhistles.pw.toml"
 hash = "262483c4f54a8171396664e16917c2d2f9145db7f9052fac99aebfb53b40e3cb"
 metafile = true
@@ -324,11 +319,6 @@ hash = "560c2f4d64b502787bd5c2ab9e9b41cef6a04bb487cec7a6d3c85bc550539aeb"
 metafile = true
 
 [[files]]
-file = "mods/ef-bs.pw.toml"
-hash = "14cb4abf149eeadbe8836d55f9615f1678d51f826046d2006f522d5d6d2ed70b"
-metafile = true
-
-[[files]]
 file = "mods/efmcompat.pw.toml"
 hash = "f097c3ab0f651fef79d04a17d6b6fa7a227e990592b47da90120d13069fb7b38"
 metafile = true
@@ -381,11 +371,6 @@ metafile = true
 [[files]]
 file = "mods/estrogen.pw.toml"
 hash = "70ca409fb19b637b29441be86584acc308707ce170418050b11115327a4f124f"
-metafile = true
-
-[[files]]
-file = "mods/ex-cap.pw.toml"
-hash = "888b231b7387a230949051728af9ec5e6e59dd90060ffcdfa02b49f8ff9be74c"
 metafile = true
 
 [[files]]
@@ -891,11 +876,6 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "2266cb1da126b45b30bf361cb9126fdb48e731587be34ffe79006eb882a757ca"
-metafile = true
-
-[[files]]
-file = "mods/weapons-of-miracles.pw.toml"
-hash = "0f3b6d1a72a1f6f13380d7c5d2aa37465ba89a90863fabb3ad7351d8290c1714"
 metafile = true
 
 [[files]]
