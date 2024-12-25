@@ -1,0 +1,13 @@
+name = "Epic Fight - ExCap"
+filename = "ExCap-20.9.5.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1d510f5b8f68c639297f3e0af914f639ac1684d6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6018981
+project-id = 1074178

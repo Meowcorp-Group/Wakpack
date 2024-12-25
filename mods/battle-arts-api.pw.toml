@@ -1,0 +1,13 @@
+name = "Battle Arts - API"
+filename = "BattleArtsAPI-20.9.5.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2b25257e1f65bdd6144f628bd7762e96d94f0355"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6018977
+project-id = 1091499

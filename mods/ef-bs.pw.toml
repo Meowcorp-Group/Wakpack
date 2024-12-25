@@ -1,0 +1,13 @@
+name = "Epic Fight - Battle Arts"
+filename = "BattleArts-20.9.5.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "523df3c7cc2bb3309e1290f4c28c3b6def281511"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6018986
+project-id = 933502
