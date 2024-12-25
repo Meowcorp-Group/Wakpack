@@ -115,6 +115,11 @@ hash = "440a806e54d48cd4c5ef447ff8f1a6cd9a99d53d02ab90d50204be9b31c2f30d"
 metafile = true
 
 [[files]]
+file = "mods/builtin-servers.pw.toml"
+hash = "98776d93b938c8fc4ffa5818b8e4b8686698feec9fef1e60235d3a368a2cbfa9"
+metafile = true
+
+[[files]]
 file = "mods/cc-tweaked.pw.toml"
 hash = "85e384667b89e3851580f924733c686d8cd7fd3ad7f841aca971cb01bd60e4d7"
 metafile = true

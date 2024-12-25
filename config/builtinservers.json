@@ -1,0 +1,10 @@
+{
+  "badgeVisible": true,
+  "builtinServers": [
+    {
+      "name": "Wak Comp.",
+      "address": "wakcomp.meowcorp.net",
+      "forced": true
+    }
+  ]
+}
