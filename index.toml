@@ -5,6 +5,10 @@ file = "config/builtinservers.json"
 hash = "8fe2df4c06a35c9c2b8e8b137feb2eceec45f81084cc357683e2fb4828e4cb88"
 
 [[files]]
+file = "config/create-client.toml"
+hash = "adaaf44f56391e22f2e6e8269b3a3572b20d5ddf618aa9321fc378303f1f87a6"
+
+[[files]]
 file = "config/jei/jei-client.ini"
 hash = "94d11fd1200ede5773ed7d45ccea5e16d4839d4f922b442883be44d068bcc1e4"
 
@@ -16,6 +20,10 @@ metafile = true
 [[files]]
 file = "config/quark-common.toml"
 hash = "3e24bd3d8a547844edc99eddecc1790bc811b3a18bda2172ba3090d0262293a9"
+
+[[files]]
+file = "defaultconfigs/create-server.toml"
+hash = "380375e29a68ad1b4a186e1167d48cab0f3281d741452eb0a49bb672a5529924"
 
 [[files]]
 file = "mods/ad-astra-giselle-addon.pw.toml"
