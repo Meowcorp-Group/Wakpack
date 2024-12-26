@@ -14,6 +14,10 @@ hash = "83ddbb3b1fd548de53a940282e902d499e2484d5dd4c2d90d6aa7f229d3fe6eb"
 metafile = true
 
 [[files]]
+file = "config/quark-common.toml"
+hash = "3e24bd3d8a547844edc99eddecc1790bc811b3a18bda2172ba3090d0262293a9"
+
+[[files]]
 file = "mods/ad-astra-giselle-addon.pw.toml"
 hash = "dba6250d4074af49f6d335a97418f29cc10d329f9825fc51ab5c125700b845d8"
 metafile = true
