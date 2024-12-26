@@ -9,6 +9,11 @@ file = "config/jei/jei-client.ini"
 hash = "94d11fd1200ede5773ed7d45ccea5e16d4839d4f922b442883be44d068bcc1e4"
 
 [[files]]
+file = "config/openloader/data/repurposed-structures-farmers-delight-compat.pw.toml"
+hash = "83ddbb3b1fd548de53a940282e902d499e2484d5dd4c2d90d6aa7f229d3fe6eb"
+metafile = true
+
+[[files]]
 file = "mods/ad-astra-giselle-addon.pw.toml"
 hash = "dba6250d4074af49f6d335a97418f29cc10d329f9825fc51ab5c125700b845d8"
 metafile = true
@@ -374,6 +379,11 @@ hash = "70ca409fb19b637b29441be86584acc308707ce170418050b11115327a4f124f"
 metafile = true
 
 [[files]]
+file = "mods/every-compat.pw.toml"
+hash = "d78233f2d3299400d8edf436ae6aa5811c5e48db7f1f3e9c9b630460645665a6"
+metafile = true
+
+[[files]]
 file = "mods/exposure.pw.toml"
 hash = "56643304802508b362d2cee4acd59425e640ef9199a235839d7dafdd4f580c18"
 metafile = true
@@ -451,6 +461,11 @@ metafile = true
 [[files]]
 file = "mods/immersive-paintings.pw.toml"
 hash = "d63d6a68c8389cbc48ec3fe181d5b465d8fbd829923618951b00e60c97f78500"
+metafile = true
+
+[[files]]
+file = "mods/immersive-weathering.pw.toml"
+hash = "72a14874aee80236d70aad285742bf4ab03381bfa48eab1c5da4a794c860ba62"
 metafile = true
 
 [[files]]
@@ -654,6 +669,11 @@ hash = "2f8d1c3e8ff75a265ba6703a488c6fa7edc69cd9a01418ed1a6884e57a3e3ade"
 metafile = true
 
 [[files]]
+file = "mods/open-loader.pw.toml"
+hash = "4e721a3949621080440a950b4aba930b91735455238b1ea4f01e25dba3e59c23"
+metafile = true
+
+[[files]]
 file = "mods/patchouli.pw.toml"
 hash = "3cf8b0b943ef4e88b788d86284f634d7f3a252b642ac0c5b41c7ef2ff548238f"
 metafile = true
@@ -721,6 +741,11 @@ metafile = true
 [[files]]
 file = "mods/refined-storage.pw.toml"
 hash = "d83c43aa5cd92ee3427f79fcf1d4e4ecf763972aa4a9ea6eac87d865c2fe955f"
+metafile = true
+
+[[files]]
+file = "mods/repurposed-structures-forge.pw.toml"
+hash = "b3aedfbd43c1f09add291b9391fc476d07681dc26da87013b17d8511abfa49a6"
 metafile = true
 
 [[files]]
@@ -871,6 +896,11 @@ metafile = true
 [[files]]
 file = "mods/valhelsia-core.pw.toml"
 hash = "80defc01fee35be2d07c6c26ad0767b98eb1eff33e8b61c3fd152412e5ab3606"
+metafile = true
+
+[[files]]
+file = "mods/vertical-slabs-compat.pw.toml"
+hash = "cd5e7ba51cfc92e99b8f1769fb8990459f2030d8b3b2d7e59b3a280b597e3394"
 metafile = true
 
 [[files]]
