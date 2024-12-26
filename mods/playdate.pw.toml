@@ -1,0 +1,13 @@
+name = "Playdate"
+filename = "playdate-2.0.0-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/cO7ZncDY/versions/MiOpXTbw/playdate-2.0.0-forge.jar"
+hash-format = "sha512"
+hash = "562e0c674633fa4c73b58ea1b047cccc9a6f0a8c1c96f0b4b075879f7619865650cf4b8870b5c5821a357076769ee36ec3300a3ae8557d482af44dfcee33d19d"
+
+[update]
+[update.modrinth]
+mod-id = "cO7ZncDY"
+version = "MiOpXTbw"
