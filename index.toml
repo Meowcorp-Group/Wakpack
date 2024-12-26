@@ -813,6 +813,16 @@ hash = "b592adf84840a655afc338c00be282ebe451a295a3ef73ec9d6c54e84a7803c2"
 metafile = true
 
 [[files]]
+file = "mods/sodium-dynamic-lights.pw.toml"
+hash = "56cdda51ec38e06d12d1158f3a1115c7fc3086bd02bb0f30cac84ba5934a701a"
+metafile = true
+
+[[files]]
+file = "mods/sodium-options-api.pw.toml"
+hash = "7a09d176e167b5d497098e5b442d9cd6b878b144e17519c2b9cbefa7d7090d45"
+metafile = true
+
+[[files]]
 file = "mods/spark.pw.toml"
 hash = "0be4976227df8e261fd362889bf8e85b93e224d1b1c3cd2a11b73a9de3b64083"
 metafile = true
