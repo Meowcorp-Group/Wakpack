@@ -319,11 +319,6 @@ hash = "560c2f4d64b502787bd5c2ab9e9b41cef6a04bb487cec7a6d3c85bc550539aeb"
 metafile = true
 
 [[files]]
-file = "mods/efmcompat.pw.toml"
-hash = "f097c3ab0f651fef79d04a17d6b6fa7a227e990592b47da90120d13069fb7b38"
-metafile = true
-
-[[files]]
 file = "mods/embeddium.pw.toml"
 hash = "5ec0c37f3f4ad07a40c10376668bca80334ddb7ad2bab06eb4de8f7aac339c8e"
 metafile = true
@@ -361,11 +356,6 @@ metafile = true
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
 hash = "cc4926dece87e61770569a0c558f3c2e674e036a92939afe93058d8c4263b96f"
-metafile = true
-
-[[files]]
-file = "mods/epic-fight.pw.toml"
-hash = "ec2f7803b3c8cf33ab5d79056b506093181ac876141b0ad5ea16d9638f1683f3"
 metafile = true
 
 [[files]]
@@ -741,11 +731,6 @@ metafile = true
 [[files]]
 file = "mods/simply-light.pw.toml"
 hash = "762eced5d260cdbc94f0acc033efd8fe70fdfe5a28bd8d180e0b052de509893f"
-metafile = true
-
-[[files]]
-file = "mods/simply-swords.pw.toml"
-hash = "e7b4f5d39d49d95fc3b11d7e39b29dc7206ef38274200f745912aae332d496e7"
 metafile = true
 
 [[files]]
