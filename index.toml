@@ -678,6 +678,11 @@ hash = "4e721a3949621080440a950b4aba930b91735455238b1ea4f01e25dba3e59c23"
 metafile = true
 
 [[files]]
+file = "mods/packet-fixer.pw.toml"
+hash = "f8ac90b649f7e3cd82a98d9a38ee58fc7df6853354aef4a488b26b78286b2dc4"
+metafile = true
+
+[[files]]
 file = "mods/patchouli.pw.toml"
 hash = "3cf8b0b943ef4e88b788d86284f634d7f3a252b642ac0c5b41c7ef2ff548238f"
 metafile = true
