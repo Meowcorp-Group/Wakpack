@@ -520,6 +520,11 @@ hash = "658dcf3a0a9775350eec20994df8c0decf686c468a348dee1e2348f5be93d16b"
 metafile = true
 
 [[files]]
+file = "mods/functional-storage.pw.toml"
+hash = "6f36277fa2c310a56a47bc95007cbf9ea591959add14c1a19308eec339da3d2a"
+metafile = true
+
+[[files]]
 file = "mods/fusion-connected-textures.pw.toml"
 hash = "21e3dd574b6f66202b2c36b23fabbb985d76f582254b66ee21771556cc34db11"
 metafile = true
@@ -617,6 +622,11 @@ metafile = true
 [[files]]
 file = "mods/l_enders-cataclysm.pw.toml"
 hash = "b5baa9c71008ac4bceb08fbb361209743f25671760e365cfad5abf254e5ad82c"
+metafile = true
+
+[[files]]
+file = "mods/light-overlay.pw.toml"
+hash = "ec1dbea2c473bfd08357e3a31745ba28046debee77242e9c401169ddbc88bcd3"
 metafile = true
 
 [[files]]
@@ -1072,6 +1082,11 @@ metafile = true
 [[files]]
 file = "mods/tis3d.pw.toml"
 hash = "b8080485701dd5e05abdd1e9a71261f753fafe1121f397876d686286cb0f8f8b"
+metafile = true
+
+[[files]]
+file = "mods/titanium.pw.toml"
+hash = "351aef144aa70ab4f41b3dcf044e0929631227f1ad118f22e611e13ff91fdfe4"
 metafile = true
 
 [[files]]
