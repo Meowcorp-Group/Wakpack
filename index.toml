@@ -185,11 +185,6 @@ hash = "85e384667b89e3851580f924733c686d8cd7fd3ad7f841aca971cb01bd60e4d7"
 metafile = true
 
 [[files]]
-file = "mods/cc-vs.pw.toml"
-hash = "ad20d542fe27f283149a0dc2e0b1186a2b08430049d00ad9e24bc3c919917852"
-metafile = true
-
-[[files]]
 file = "mods/cccbridge.pw.toml"
 hash = "6e680be3cca5047fa566588220045ba76faf90889319c7aff3c03dd450065d20"
 metafile = true
@@ -262,11 +257,6 @@ metafile = true
 [[files]]
 file = "mods/crafting-tweaks.pw.toml"
 hash = "a0f928084962b9fc624b6413a04b3e658437bc80dd1c6c7954e2bc28803f377c"
-metafile = true
-
-[[files]]
-file = "mods/create-clockwork.pw.toml"
-hash = "d31c742e6dacf85d60415a75dbbe70e68ce17839ceeec858235f599606ab4632"
 metafile = true
 
 [[files]]
@@ -442,11 +432,6 @@ metafile = true
 [[files]]
 file = "mods/estrogen.pw.toml"
 hash = "70ca409fb19b637b29441be86584acc308707ce170418050b11115327a4f124f"
-metafile = true
-
-[[files]]
-file = "mods/eureka.pw.toml"
-hash = "d87a2ef4b990dc9d189ca15e07394e82266773dee1e3c4e5b4d8b662d56ed03b"
 metafile = true
 
 [[files]]
@@ -1117,16 +1102,6 @@ metafile = true
 [[files]]
 file = "mods/valhelsia-core.pw.toml"
 hash = "80defc01fee35be2d07c6c26ad0767b98eb1eff33e8b61c3fd152412e5ab3606"
-metafile = true
-
-[[files]]
-file = "mods/valkyrien-relogs.pw.toml"
-hash = "1bc5457c81fd6db2f13432a16682d8c4177a930b04fd0404368ae0b185c931f9"
-metafile = true
-
-[[files]]
-file = "mods/valkyrien-skies.pw.toml"
-hash = "4e3d9b34be042ffd29daf13b1f1f03f2076ce063fb7504f0da2c1a6756b5a6f3"
 metafile = true
 
 [[files]]
