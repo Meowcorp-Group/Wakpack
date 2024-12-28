@@ -1030,6 +1030,21 @@ hash = "7a09d176e167b5d497098e5b442d9cd6b878b144e17519c2b9cbefa7d7090d45"
 metafile = true
 
 [[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+hash = "731af9b877b4c93ebb80b6939ab8765982cf9a1fd205b726b3c6e2bd2efc59f1"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core.pw.toml"
+hash = "759190ef4bcf86d5ed2d3d28ddc5c9ff059713d45890dc818ae947b99cf40080"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-storage.pw.toml"
+hash = "99fbc7f178e63b39dc081158f36f3eed24c5ab1d2afaf8fd894cab18d3d8dd42"
+metafile = true
+
+[[files]]
 file = "mods/spark.pw.toml"
 hash = "0be4976227df8e261fd362889bf8e85b93e224d1b1c3cd2a11b73a9de3b64083"
 metafile = true
