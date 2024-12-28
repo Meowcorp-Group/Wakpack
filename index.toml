@@ -235,6 +235,11 @@ hash = "f4406fece3f81c30faabfe3faffa872655c5eff78c1cb467e32853be805d3570"
 metafile = true
 
 [[files]]
+file = "mods/connectivity.pw.toml"
+hash = "78459b7609cbf110e640bdb5712d11f72e19830297ecaec5274a660f55e7b06e"
+metafile = true
+
+[[files]]
 file = "mods/construction-wand.pw.toml"
 hash = "f0a3b2a75840024a3dfc03dc073b20e61aa41cf939cef2698308029a5f870c35"
 metafile = true
@@ -347,6 +352,11 @@ metafile = true
 [[files]]
 file = "mods/createaddition.pw.toml"
 hash = "cfaa5b3bc3481ac20f9294309e91f7a01597b6adf70137fe3340d02b7b941299"
+metafile = true
+
+[[files]]
+file = "mods/cupboard.pw.toml"
+hash = "2eb26b157c4159bfeff6a00147afa35284397d558f84b55367d1a41064d7456a"
 metafile = true
 
 [[files]]
@@ -862,11 +872,6 @@ metafile = true
 [[files]]
 file = "mods/open-loader.pw.toml"
 hash = "4e721a3949621080440a950b4aba930b91735455238b1ea4f01e25dba3e59c23"
-metafile = true
-
-[[files]]
-file = "mods/packet-fixer.pw.toml"
-hash = "f8ac90b649f7e3cd82a98d9a38ee58fc7df6853354aef4a488b26b78286b2dc4"
 metafile = true
 
 [[files]]
