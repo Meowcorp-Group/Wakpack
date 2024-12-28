@@ -215,6 +215,11 @@ hash = "a2c5d820180d2610e5017e3f08957010e30cf05d50ee3180272dac6f969260cf"
 metafile = true
 
 [[files]]
+file = "mods/common-capabilities.pw.toml"
+hash = "84ed1e8a24873d2cc3fcf88e503d9945d10be63b2414503c884e394b62083f56"
+metafile = true
+
+[[files]]
 file = "mods/computer-cartographer.pw.toml"
 hash = "81b4a182487cdeb22bfd608a69bc7de5af7784307ee2d41f3439f9963c565921"
 metafile = true
@@ -347,6 +352,11 @@ metafile = true
 [[files]]
 file = "mods/curios.pw.toml"
 hash = "6e72f1af6c31a2afeb112f6a7737c37a55ae9c1b076f4ccadbe544849499aa4f"
+metafile = true
+
+[[files]]
+file = "mods/cyclops-core.pw.toml"
+hash = "7ff39dc6b615116573612f9723f78f7767ccd419e77b29d816b568e93079a7a2"
 metafile = true
 
 [[files]]
@@ -557,6 +567,36 @@ metafile = true
 [[files]]
 file = "mods/immersiveengineering.pw.toml"
 hash = "fcb27576964bc17e215bd6b0514e77186f553582f476656c84f57dc96be76a5e"
+metafile = true
+
+[[files]]
+file = "mods/integrated-crafting.pw.toml"
+hash = "b21828d9b36aac294f870c987910aa5aa8ae09324541662ccc42e4beef5947f6"
+metafile = true
+
+[[files]]
+file = "mods/integrated-dynamics.pw.toml"
+hash = "261939497a12c697696c2c0e67f36040ab35e0feebcfd5965891d7ffae7454ec"
+metafile = true
+
+[[files]]
+file = "mods/integrated-rest.pw.toml"
+hash = "a89b0a5a0fd962746f172a9f94f1b2aa84ff7c19a7465621db4025d84b854535"
+metafile = true
+
+[[files]]
+file = "mods/integrated-scripting.pw.toml"
+hash = "01a4eb5037a847847bc3d0df4349ab24dc3ea4cdd733e4dada8d6813227de87a"
+metafile = true
+
+[[files]]
+file = "mods/integrated-terminals.pw.toml"
+hash = "5919e1aeedde26b6cb5edc1585756df79f7f4dbd05fe1d4082d9390e62d2322d"
+metafile = true
+
+[[files]]
+file = "mods/integrated-tunnels.pw.toml"
+hash = "71b3f472ba4dcb3c456451ff0b78dbc9431a8340ef5f5beb4b90b6737f2eaf8a"
 metafile = true
 
 [[files]]

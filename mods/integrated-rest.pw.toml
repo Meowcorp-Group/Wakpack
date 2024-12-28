@@ -1,0 +1,13 @@
+name = "Integrated REST"
+filename = "IntegratedREST-1.20.1-1.1.11.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ovubcV3F/versions/1UwsOcuo/IntegratedREST-1.20.1-1.1.11.jar"
+hash-format = "sha512"
+hash = "972dc429af3f2aed0e967213219d6b9c6bdc3c45101f900ad1e738bb00f99091733eb9af822cc40dff34bd472aaceac5c595104ea184276df4626745bb751e12"
+
+[update]
+[update.modrinth]
+mod-id = "ovubcV3F"
+version = "1UwsOcuo"
