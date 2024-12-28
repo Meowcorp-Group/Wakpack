@@ -680,11 +680,6 @@ hash = "b5baa9c71008ac4bceb08fbb361209743f25671760e365cfad5abf254e5ad82c"
 metafile = true
 
 [[files]]
-file = "mods/light-overlay.pw.toml"
-hash = "ec1dbea2c473bfd08357e3a31745ba28046debee77242e9c401169ddbc88bcd3"
-metafile = true
-
-[[files]]
 file = "mods/lionfish-api.pw.toml"
 hash = "3e055c411c197b2103e338dc9fdcd37272df81aaf4246f801694f97feaf7d232"
 metafile = true
@@ -837,6 +832,11 @@ metafile = true
 [[files]]
 file = "mods/moonlight.pw.toml"
 hash = "ff49ffc39b6d48dfa0ed98492bba6c9ed313884393ebd644963d46b804e903d1"
+metafile = true
+
+[[files]]
+file = "mods/more-overlays-updated.pw.toml"
+hash = "d523d495ab022346d3789c0bb0c24a5c78c1cbb661e48b6fc1c15f322a02ed74"
 metafile = true
 
 [[files]]
