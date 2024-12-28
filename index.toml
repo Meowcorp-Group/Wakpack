@@ -505,6 +505,11 @@ hash = "55cfba35c153fb922dd2d52b24fa163b040dee11be2fdff6656093a919c69ca0"
 metafile = true
 
 [[files]]
+file = "mods/framework.pw.toml"
+hash = "2a4f28e582d8bb538efaeb0faa5a8592f44b2e90dd192af58852f45aa7be8be8"
+metafile = true
+
+[[files]]
 file = "mods/ftb-chunks-forge.pw.toml"
 hash = "284814af680b018f2a4e83dcd3dedb77717177530df21de58e191d36e3e35a37"
 metafile = true
@@ -795,6 +800,11 @@ hash = "6d52b6989ddabb53a1f86aee4ab315c2c8726b800276975eb510a31884891082"
 metafile = true
 
 [[files]]
+file = "mods/mighty-mail.pw.toml"
+hash = "55d157a38d829fb67129086a5498f0539bcbed2fa5e974a28abe4ab1cde2fcb5"
+metafile = true
+
+[[files]]
 file = "mods/minecolonies.pw.toml"
 hash = "79372f0359bf2846118764cbacb77638cc88f960e1aac90495eeccd11e560e89"
 metafile = true
@@ -987,6 +997,11 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "b8c7497acbf4890b4609b6b20de7affdd3482fc99af975d9ff6b29c075e1d8a7"
+metafile = true
+
+[[files]]
+file = "mods/shipping.pw.toml"
+hash = "bf5afc1949619e11740e987b91f3a1701c7bf874e01320bb6c91da9058237159"
 metafile = true
 
 [[files]]
