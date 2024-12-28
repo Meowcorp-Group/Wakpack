@@ -5,6 +5,10 @@ file = "config/builtinservers.json"
 hash = "8fe2df4c06a35c9c2b8e8b137feb2eceec45f81084cc357683e2fb4828e4cb88"
 
 [[files]]
+file = "config/connectivity.json"
+hash = "496148c6bf56c7f820a5803e3efbb208dab929f0f025d6b408bd1d9f8d312a05"
+
+[[files]]
 file = "config/create-client.toml"
 hash = "adaaf44f56391e22f2e6e8269b3a3572b20d5ddf618aa9321fc378303f1f87a6"
 
@@ -847,6 +851,11 @@ metafile = true
 [[files]]
 file = "mods/multi-piston.pw.toml"
 hash = "680583e1e6c2b4aa4251b25f4887d7e865dfa889268052c498ef152dedee812a"
+metafile = true
+
+[[files]]
+file = "mods/my-server-is-compatible.pw.toml"
+hash = "27cd835739eabf2e0dc092cb9670a954c6a94c193ce587178a1d1f69504fbdc1"
 metafile = true
 
 [[files]]
