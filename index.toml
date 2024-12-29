@@ -6,7 +6,7 @@ hash = "8fe2df4c06a35c9c2b8e8b137feb2eceec45f81084cc357683e2fb4828e4cb88"
 
 [[files]]
 file = "config/connectivity.json"
-hash = "496148c6bf56c7f820a5803e3efbb208dab929f0f025d6b408bd1d9f8d312a05"
+hash = "e46c301f6ee78b2a1dbd50cb2f01d76f77f3dfa210d9313cd5dbb2303c6d1cf5"
 
 [[files]]
 file = "config/create-client.toml"
