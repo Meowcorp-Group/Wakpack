@@ -389,6 +389,11 @@ hash = "360053eae8a35a1f879f70007e19b2839964947ee1536d9b18a128443f36d7b0"
 metafile = true
 
 [[files]]
+file = "mods/dont-cut-tripwire.pw.toml"
+hash = "0af25ad4dbe21ccc9ab1434140cb9640af84ee90ac1f14fcd4da281bbc7fca3f"
+metafile = true
+
+[[files]]
 file = "mods/ducky-periphs.pw.toml"
 hash = "a59b8d3f24dca88fc93b11707423719e1350fc68d7a9884ff47b252734b1a05f"
 metafile = true
