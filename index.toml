@@ -187,6 +187,11 @@ hash = "98776d93b938c8fc4ffa5818b8e4b8686698feec9fef1e60235d3a368a2cbfa9"
 metafile = true
 
 [[files]]
+file = "mods/caelus.pw.toml"
+hash = "8a8ea0af79b88d9c192d208aa5be4bacd934e2b92d4721566e2e796eb9761e10"
+metafile = true
+
+[[files]]
 file = "mods/calcmod.pw.toml"
 hash = "3814c25e243d7c5bd7f47e6f8870bdf264dcafd279ac4c84b0392bf00f4ac227"
 metafile = true
@@ -424,6 +429,11 @@ metafile = true
 [[files]]
 file = "mods/edivadlib.pw.toml"
 hash = "f3f7be7bc93fb265b44c8d18b072b026dd32c05d7ecdf8bd5d5f0a74c6794d4b"
+metafile = true
+
+[[files]]
+file = "mods/elytra-slot.pw.toml"
+hash = "b819114773db1e86fa897907d79abf9925f05a6ae3fd10f7a02cca41f3e9a0d2"
 metafile = true
 
 [[files]]
@@ -959,6 +969,11 @@ metafile = true
 [[files]]
 file = "mods/ponder.pw.toml"
 hash = "1ee5caa6e7b661d336a6b69f9468c849e9c6a7e52ab2814487256b53443b15d2"
+metafile = true
+
+[[files]]
+file = "mods/potionsmaster.pw.toml"
+hash = "8a8f4f421a80fb76e7ac32ffc18d824b008b775c963902b3528c2a2e82551298"
 metafile = true
 
 [[files]]
