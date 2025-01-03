@@ -777,6 +777,11 @@ hash = "53f933b0e94a69f06db31f8252e1f18139ba0f9fe530f5fa1400c3102ddd785f"
 metafile = true
 
 [[files]]
+file = "mods/mcjtylib.pw.toml"
+hash = "7041659854a3033c9bf27e758ab3d6e65e26acc59961283f2ded5ffe13532330"
+metafile = true
+
+[[files]]
 file = "mods/mcr_blahaj.pw.toml"
 hash = "3a9126037aa4c6f9f2ca01af14bcb1403cbc11dcbef7637a974b5cf4257b3393"
 metafile = true
@@ -834,6 +839,11 @@ metafile = true
 [[files]]
 file = "mods/mmmmmmmmmmmm.pw.toml"
 hash = "6b336af5a4e2e7e3ac54057894eb284d66d61682bd522c6582d37fedbc9e8183"
+metafile = true
+
+[[files]]
+file = "mods/mob-grinding-utils.pw.toml"
+hash = "22ffca942573f1c39cc6c495122a31706a12eeb655c013c6c017aa1306ccaf7b"
 metafile = true
 
 [[files]]
@@ -914,6 +924,11 @@ metafile = true
 [[files]]
 file = "mods/ping-wheel.pw.toml"
 hash = "03d175db0d59f5f3aaa5277a70a441b85a0755028a70cb99660adfa6f271b745"
+metafile = true
+
+[[files]]
+file = "mods/pipez.pw.toml"
+hash = "4eadf64420cd4db093db67201bfbf36165515f3466a4b849794516c72914ce51"
 metafile = true
 
 [[files]]
@@ -1009,6 +1024,41 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "5c07edd0c8fe82e85efd6c027476ba54cf98291526803b74614c3436292e4ab6"
+metafile = true
+
+[[files]]
+file = "mods/rftools-base.pw.toml"
+hash = "432be9441cc41863bf980f10a77e33f096b680e42545c4ab95d77890cc5fe47c"
+metafile = true
+
+[[files]]
+file = "mods/rftools-builder.pw.toml"
+hash = "e16385d040347c49d129400153738064c99a67a37b19c37915efecb7dc00ca0d"
+metafile = true
+
+[[files]]
+file = "mods/rftools-control.pw.toml"
+hash = "8282c1c9592f716e4ff0de099e69e19edf480795ef81256b5718ccbd376e6061"
+metafile = true
+
+[[files]]
+file = "mods/rftools-dimensions.pw.toml"
+hash = "cfe0ab30f0b7a4e145d068855158bdc495d8428b1582ef473338b5389593f66b"
+metafile = true
+
+[[files]]
+file = "mods/rftools-power.pw.toml"
+hash = "20795bc52932ae5a00626e835af106ba5e938de547b4dd767439d0aa67dbf1b6"
+metafile = true
+
+[[files]]
+file = "mods/rftools-storage.pw.toml"
+hash = "b037be98c83e494fcb62b2a93943f1d4b532d2ed2ec1b86039c6180401208c40"
+metafile = true
+
+[[files]]
+file = "mods/rftools-utility.pw.toml"
+hash = "dea0789d9c93a2fe76cfc4bfdce9dd8fe2e701f3046faa25e5291253ba9792ce"
 metafile = true
 
 [[files]]
