@@ -34,6 +34,14 @@ file = "defaultconfigs/create-server.toml"
 hash = "380375e29a68ad1b4a186e1167d48cab0f3281d741452eb0a49bb672a5529924"
 
 [[files]]
+file = "defaultconfigs/ftbchunks-world.snbt"
+hash = "8a7b6bf1662db25b593713dc6d04c926f395afe863ee59adba769c12279423a9"
+
+[[files]]
+file = "kubejs/server_scripts/recipes.js"
+hash = "5ad67b5f15dad75b13881a1e83be64530c8f6cc12700e238695cdf978e8f9550"
+
+[[files]]
 file = "mods/ad-astra-giselle-addon.pw.toml"
 hash = "dba6250d4074af49f6d335a97418f29cc10d329f9825fc51ab5c125700b845d8"
 metafile = true
