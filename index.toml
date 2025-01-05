@@ -26,6 +26,10 @@ file = "config/quark-common.toml"
 hash = "3e24bd3d8a547844edc99eddecc1790bc811b3a18bda2172ba3090d0262293a9"
 
 [[files]]
+file = "config/twilightforest-common.toml"
+hash = "07330e99e2b609446df9bb7ea85cd595b9cc39743db45c3163df91b852e4455e"
+
+[[files]]
 file = "defaultconfigs/computercraft-server.toml"
 hash = "10a7a6943dc71980be57ce1d0d74a09d8af71790acca00b927a35b2b823c8fda"
 
@@ -40,6 +44,10 @@ hash = "8a7b6bf1662db25b593713dc6d04c926f395afe863ee59adba769c12279423a9"
 [[files]]
 file = "kubejs/server_scripts/recipes.js"
 hash = "5ad67b5f15dad75b13881a1e83be64530c8f6cc12700e238695cdf978e8f9550"
+
+[[files]]
+file = "kubejs/server_scripts/remove.js"
+hash = "fca0e9012b9da2117731a62b323fb40a4bf77718e13e5ac1018e0b88e3fe7aa5"
 
 [[files]]
 file = "mods/ad-astra-giselle-addon.pw.toml"
@@ -1364,6 +1372,11 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "2266cb1da126b45b30bf361cb9126fdb48e731587be34ffe79006eb882a757ca"
+metafile = true
+
+[[files]]
+file = "mods/worldedit.pw.toml"
+hash = "315afc024f86659bb71ee99e0232396d4740c1c9ffabd2a244d4c9dfecbb9562"
 metafile = true
 
 [[files]]
