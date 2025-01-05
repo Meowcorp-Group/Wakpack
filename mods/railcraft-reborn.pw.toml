@@ -1,0 +1,13 @@
+name = "Railcraft Reborn"
+filename = "railcraft-reborn-1.20.1-1.1.8.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/rO6kKst6/versions/8sIMVPP4/railcraft-reborn-1.20.1-1.1.8.jar"
+hash-format = "sha512"
+hash = "1c8b432dd3522c4a15cdea6654e668a923e647d7fafc9af7cb8bf3b6eddedfa1a20f17f433d308d1b72d6325b79a51075b989688fae6f16365bac47a01c0f1a8"
+
+[update]
+[update.modrinth]
+mod-id = "rO6kKst6"
+version = "8sIMVPP4"
