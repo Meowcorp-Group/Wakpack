@@ -1375,11 +1375,6 @@ hash = "2266cb1da126b45b30bf361cb9126fdb48e731587be34ffe79006eb882a757ca"
 metafile = true
 
 [[files]]
-file = "mods/worldedit.pw.toml"
-hash = "315afc024f86659bb71ee99e0232396d4740c1c9ffabd2a244d4c9dfecbb9562"
-metafile = true
-
-[[files]]
 file = "mods/yeetus-experimentus.pw.toml"
 hash = "f1ab9504f1664dd80407ea5c44425723a6621e0092051bd23dc5241757bccb17"
 metafile = true
