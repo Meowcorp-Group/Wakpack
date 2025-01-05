@@ -490,11 +490,6 @@ hash = "36ea769516d056683b619fe7eae9e39c9d1f19f4de21b2b5026749e94f2c63eb"
 metafile = true
 
 [[files]]
-file = "mods/delightful.pw.toml"
-hash = "7af5c6626a621ee07c78b3c238a272f5e6622682e1734513b85cec7c0878c22f"
-metafile = true
-
-[[files]]
 file = "mods/dimstorage.pw.toml"
 hash = "5bc7a68f9db33f830a698964f6261d36213e42444c2d579a380d674ac6761cd7"
 metafile = true
