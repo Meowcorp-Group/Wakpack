@@ -1,13 +1,13 @@
 name = "Integrated Scripting"
-filename = "IntegratedScripting-1.20.1-1.0.8.jar"
+filename = "IntegratedScripting-1.20.1-1.0.9.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/uDJkuFRe/versions/rxjs340B/IntegratedScripting-1.20.1-1.0.8.jar"
+url = "https://cdn.modrinth.com/data/uDJkuFRe/versions/HJuTnnh5/IntegratedScripting-1.20.1-1.0.9.jar"
 hash-format = "sha512"
-hash = "de3c4d5a16911150d0ca195cc2e9fbf72f6da4406e39cca1e49ae373c15463f46e414a2fa25bdd72a9625b4060c2e68547028a73adf76b4360de069208e241db"
+hash = "be6e6cf899bdeeb409a9f19347d633957fc8578f3141d59f39a1f8def917d2048521058718f3b641cc2ed0d3ad2025cb6577b4bced23251b30e38a7cbf2f9146"
 
 [update]
 [update.modrinth]
 mod-id = "uDJkuFRe"
-version = "rxjs340B"
+version = "HJuTnnh5"

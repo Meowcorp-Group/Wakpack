@@ -1,13 +1,13 @@
 name = "Sophisticated Core"
-filename = "sophisticatedcore-1.20.1-1.0.1.809.jar"
+filename = "sophisticatedcore-1.20.1-1.0.8.828.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/nmoqTijg/versions/8L0wSqzt/sophisticatedcore-1.20.1-1.0.1.809.jar"
+url = "https://cdn.modrinth.com/data/nmoqTijg/versions/kYddH9dA/sophisticatedcore-1.20.1-1.0.8.828.jar"
 hash-format = "sha512"
-hash = "44d4077f29f5637d5f363b0f704a48531cbd77244f2956da42c74b7597f44aeb5831e2d9e8c45b4306ff81edac47b0360dcc41f1cee9fb2e69b3f19433ef1dd4"
+hash = "a2918646aad9fa817865c720d3c3cc272de6ce7facabd23e8a83658d7876c1d538255b58583a19f82d94aacf43a487e149409e690775f1e7213566d8f1c1fa37"
 
 [update]
 [update.modrinth]
 mod-id = "nmoqTijg"
-version = "8L0wSqzt"
+version = "kYddH9dA"
