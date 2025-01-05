@@ -142,6 +142,11 @@ hash = "7b91491f4977bac34139188e8a6b3a51c6c752977424e7c4edbe643a19a1f942"
 metafile = true
 
 [[files]]
+file = "mods/baubley-heart-canisters.pw.toml"
+hash = "bbea524550e984c7ef26c24188fefa369458ef7ea87e3ad1ef72f9fb3fdbdf10"
+metafile = true
+
+[[files]]
 file = "mods/bellsandwhistles.pw.toml"
 hash = "262483c4f54a8171396664e16917c2d2f9145db7f9052fac99aebfb53b40e3cb"
 metafile = true
@@ -174,6 +179,11 @@ metafile = true
 [[files]]
 file = "mods/botarium.pw.toml"
 hash = "440a806e54d48cd4c5ef447ff8f1a6cd9a99d53d02ab90d50204be9b31c2f30d"
+metafile = true
+
+[[files]]
+file = "mods/building-gadgets.pw.toml"
+hash = "8461b7344559646b5051a6d812e2cd4d43e62c8c817d17f0b2552f65306f43d4"
 metafile = true
 
 [[files]]
@@ -382,6 +392,11 @@ hash = "6e72f1af6c31a2afeb112f6a7737c37a55ae9c1b076f4ccadbe544849499aa4f"
 metafile = true
 
 [[files]]
+file = "mods/cyclic.pw.toml"
+hash = "ead032f6965df7ca91b5dc9aeb87f89b9f7e04790bdb80e4dda60e7d051ffa09"
+metafile = true
+
+[[files]]
 file = "mods/cyclops-core.pw.toml"
 hash = "7ff39dc6b615116573612f9723f78f7767ccd419e77b29d816b568e93079a7a2"
 metafile = true
@@ -532,6 +547,11 @@ hash = "edcff5ac3f48e3f33e7193745e8cbf8428bc5bc4ddea5f0629c4e14b172883f4"
 metafile = true
 
 [[files]]
+file = "mods/flib.pw.toml"
+hash = "ec9b48d07fdb821f60236006aeb33bb129abcee2ba044611a4758e31b2fa0bca"
+metafile = true
+
+[[files]]
 file = "mods/forbidden-arcanus.pw.toml"
 hash = "7c2db6d1f9151abb1f5bfb898dace19701884c3256a6dca567f3953db9ac3a08"
 metafile = true
@@ -609,6 +629,11 @@ metafile = true
 [[files]]
 file = "mods/immersiveengineering.pw.toml"
 hash = "fcb27576964bc17e215bd6b0514e77186f553582f476656c84f57dc96be76a5e"
+metafile = true
+
+[[files]]
+file = "mods/industrial-foregoing.pw.toml"
+hash = "fb01bfe36262e48cb1e11eedcd5421f67c58dce3f5bc9d69ef32a1aa2156449e"
 metafile = true
 
 [[files]]
@@ -877,6 +902,11 @@ hash = "d523d495ab022346d3789c0bb0c24a5c78c1cbb661e48b6fc1c15f322a02ed74"
 metafile = true
 
 [[files]]
+file = "mods/more-red.pw.toml"
+hash = "ea4a8be0d3d889f0240a975a2ba25d8c39c29900fe47de950b667dd7f5c69a88"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "679fa8f3b49b9ed3fbcb29d6ccdb99bce465faa01f9cec000464ac8d4fbe134f"
 metafile = true
@@ -884,6 +914,11 @@ metafile = true
 [[files]]
 file = "mods/multi-piston.pw.toml"
 hash = "680583e1e6c2b4aa4251b25f4887d7e865dfa889268052c498ef152dedee812a"
+metafile = true
+
+[[files]]
+file = "mods/mutil.pw.toml"
+hash = "98e4fe14111012678e1aa92919307a67f49eca02ae7c48918e1c1ec791da57cd"
 metafile = true
 
 [[files]]
@@ -1102,6 +1137,21 @@ hash = "0b78a3e7d93a1325cfe21e12e6d3e3e2c2fb005d6c74c7a4b249b1a3da5e93a3"
 metafile = true
 
 [[files]]
+file = "mods/silent-gear.pw.toml"
+hash = "ccd0eaace91d511375a1eeb58bd045dfe3c951d6f3d748284eced2b6614168bd"
+metafile = true
+
+[[files]]
+file = "mods/silent-lib.pw.toml"
+hash = "d8534ac5dab1f2bef206331abd2d2a0bb504b68c10fcd71aefd49239eab5f7e0"
+metafile = true
+
+[[files]]
+file = "mods/silents-gems.pw.toml"
+hash = "4dced04b2f1db898ad8760c568e341cbfee88a12d04b3a6cde323fe5bb59584c"
+metafile = true
+
+[[files]]
 file = "mods/simple-magnets.pw.toml"
 hash = "1480f2d11e75313bc29fc22bea862cc3b04b55e38cb417bb735582fd259a1881"
 metafile = true
@@ -1192,6 +1242,21 @@ hash = "21ded7427eed05b00fd5f1fb2c1e5232809113dc9020f612269181cad844a1fb"
 metafile = true
 
 [[files]]
+file = "mods/tetra-extras.pw.toml"
+hash = "024f6280e7d8bad9de70cd5f03ff8ff4be112d0171dd4979c2ac52f7a9cabcb2"
+metafile = true
+
+[[files]]
+file = "mods/tetra.pw.toml"
+hash = "5aff4b53545266b11b6a6b41147bfdb46cdc5a46dc12d9533bd929810e2e6727"
+metafile = true
+
+[[files]]
+file = "mods/tetras-delight.pw.toml"
+hash = "252362fcc831cf6fcbb51d170e37f140fdbafe05c66bdf6e291ab520c100b7ea"
+metafile = true
+
+[[files]]
 file = "mods/the-twilight-forest.pw.toml"
 hash = "d1f859de9867b7433305aef1631aa22a436a4c3924474a21c0a22ab5f2093c04"
 metafile = true
@@ -1259,6 +1324,11 @@ metafile = true
 [[files]]
 file = "mods/toms-storage.pw.toml"
 hash = "e85962c74927036b8453b532f3ec57e377edb3953e704b505b8ddeeb99e64cf4"
+metafile = true
+
+[[files]]
+file = "mods/torchmaster.pw.toml"
+hash = "1af7144283e6f5fd861b9b4cb55fa12bde4e3fdfbcbc457391c6a70ec4a236c8"
 metafile = true
 
 [[files]]
