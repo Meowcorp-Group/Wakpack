@@ -151,7 +151,7 @@ metafile = true
 
 [[files]]
 file = "mods/ars-nouveau.pw.toml"
-hash = "a682bb29719e83706ec7477b751855fc21e63ee948108665f5aeddf3564263db"
+hash = "5994f2b1c61f6d8211413c1cb999464fc5e87439129f6f0b086daf64fda9ec96"
 metafile = true
 
 [[files]]
@@ -926,7 +926,7 @@ metafile = true
 
 [[files]]
 file = "mods/little-logistics.pw.toml"
-hash = "d52e67ecdaba130d0d672588bffed7bc8818c33857b8a350c24e91868d5c0388"
+hash = "d96ffbfb771b81f3c66e67f10479e27b43896b070ef3e78d5e3f8a6c6f3085cf"
 metafile = true
 
 [[files]]
