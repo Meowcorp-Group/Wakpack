@@ -1,0 +1,10 @@
+#!/usr/bin/sh
+
+packwiz refresh
+python3 web/generateModList.py
+git add pack.toml
+git add index.toml
+git add web/modCount.txt
+git add web/modList.json
+
+echo "Pre-commit hook complete."
