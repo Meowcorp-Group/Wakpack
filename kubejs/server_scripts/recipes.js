@@ -42,4 +42,19 @@ ServerEvents.recipes(event => {
 	event.stonecutting('createstation_decor:sncf_platformsign_7', '#forge:nuggets/iron')
 	event.stonecutting('createstation_decor:sncf_platformsign_8', '#forge:nuggets/iron')
 	event.stonecutting('createstation_decor:sncf_platformsign_9', '#forge:nuggets/iron')
+
+	// crafting
+	event.shaped(
+		Item.of('kubejs:titanium_uranium_sword', 1),
+		[
+			' T ',
+			' U ',
+			' I '
+		],
+		{
+			T: 'kubejs:nether_star_ingot',
+			U: 'kubejs:fluxed_uranium_ingot',
+			I: 'minecraft:iron_ingot'
+		}
+	)
 })
