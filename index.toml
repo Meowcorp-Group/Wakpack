@@ -46,6 +46,10 @@ file = "defaultconfigs/ftbchunks-world.snbt"
 hash = "8a7b6bf1662db25b593713dc6d04c926f395afe863ee59adba769c12279423a9"
 
 [[files]]
+file = "kubejs/assets/kubejs/models/item/fluxed_uranium_ingot.json"
+hash = "c29a277417a1209a7077ece43c14910d5cd34a30369384d4aad2329b0b2475c3"
+
+[[files]]
 file = "kubejs/assets/kubejs/textures/item/fluxed_uranium_ingot.aseprite"
 hash = "cc93fbc20dbdd8990281d267b5ccd436124e5e689386649ee6ffb90f436fef34"
 
@@ -55,7 +59,7 @@ hash = "b85f7e368563c6dfe816879ed1cf5fb62b5e4da146b3c685548c4cf165256aac"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/fluxed_uranium_ingot.png.mcmeta"
-hash = "66cab9c62d36c46674895d3bf7d48e1e53565bd81739bc6e8f07996539fbc25c"
+hash = "4d3bcabd831820ae892daed495e47ad3f449c73d8d19f6e6326774e9e87bbb94"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/nether_star_ingot.png"
