@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".githooks/pre-commit"
+hash = "20790d868df2190678b9f37569b107eb19ba326df19c4fccc2225af6d44dd614"
+
+[[files]]
 file = "config/builtinservers.json"
 hash = "8fe2df4c06a35c9c2b8e8b137feb2eceec45f81084cc357683e2fb4828e4cb88"
 
@@ -42,12 +46,40 @@ file = "defaultconfigs/ftbchunks-world.snbt"
 hash = "8a7b6bf1662db25b593713dc6d04c926f395afe863ee59adba769c12279423a9"
 
 [[files]]
+file = "kubejs/assets/kubejs/models/item/fluxed_uranium_ingot.json"
+hash = "c29a277417a1209a7077ece43c14910d5cd34a30369384d4aad2329b0b2475c3"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/fluxed_uranium_ingot.aseprite"
+hash = "cc93fbc20dbdd8990281d267b5ccd436124e5e689386649ee6ffb90f436fef34"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/fluxed_uranium_ingot.png"
+hash = "b85f7e368563c6dfe816879ed1cf5fb62b5e4da146b3c685548c4cf165256aac"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/fluxed_uranium_ingot.png.mcmeta"
+hash = "4d3bcabd831820ae892daed495e47ad3f449c73d8d19f6e6326774e9e87bbb94"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/nether_star_ingot.png"
+hash = "12d2827cc899c5b917e4d3737796cc2288960487c798fbe2ba133f2b703fdc5c"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/titanium_uranium_sword.png"
+hash = "40f59811031f37ccacb6e05964e3661e361f51db3644c510193ac943d54e9304"
+
+[[files]]
 file = "kubejs/server_scripts/recipes.js"
-hash = "5ad67b5f15dad75b13881a1e83be64530c8f6cc12700e238695cdf978e8f9550"
+hash = "d6ff8391a1efe046f6ee5074b3c8110f8d684dc00809e9ed2acc872d0d0632fc"
 
 [[files]]
 file = "kubejs/server_scripts/remove.js"
 hash = "fca0e9012b9da2117731a62b323fb40a4bf77718e13e5ac1018e0b88e3fe7aa5"
+
+[[files]]
+file = "kubejs/startup_scripts/sillystuffs.js"
+hash = "bb95e24f139c9caddb5991869823a3857d0981ad118fddf649a1fa188f2ea0a4"
 
 [[files]]
 file = "mods/ad-astra-giselle-addon.pw.toml"
