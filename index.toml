@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".githooks/pre-commit"
+hash = "20790d868df2190678b9f37569b107eb19ba326df19c4fccc2225af6d44dd614"
+
+[[files]]
 file = "config/builtinservers.json"
 hash = "8fe2df4c06a35c9c2b8e8b137feb2eceec45f81084cc357683e2fb4828e4cb88"
 
@@ -1107,6 +1111,11 @@ metafile = true
 [[files]]
 file = "mods/more-overlays-updated.pw.toml"
 hash = "d523d495ab022346d3789c0bb0c24a5c78c1cbb661e48b6fc1c15f322a02ed74"
+metafile = true
+
+[[files]]
+file = "mods/more-red-x-cc-tweaked-compat.pw.toml"
+hash = "c267d39e15eee2203a0773569d9dbc28fab80b764cc60119cfe30a650e954fd7"
 metafile = true
 
 [[files]]
