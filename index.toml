@@ -414,6 +414,11 @@ hash = "07bc61993957000b9c2ff6e1e5c0a4ef246aa18745f70a7a8c1c875b7b2bddd7"
 metafile = true
 
 [[files]]
+file = "mods/create-pantographs-and-wires.pw.toml"
+hash = "f8619d07bfe7ce3842fad6c28bef3caed749acd1886d34bbd8c8302c6d689b6b"
+metafile = true
+
+[[files]]
 file = "mods/create-power-loader.pw.toml"
 hash = "f71550f98704bdda403df05c5ac5148a9bcd685825c60d46c53938049a86bb74"
 metafile = true
