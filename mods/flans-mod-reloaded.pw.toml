@@ -1,13 +1,13 @@
 name = "Flan's Mod: Reloaded"
-filename = "flansmod-1.20.1-0.4.193.jar"
+filename = "flansmod-1.20.1-0.4.316.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "610e3aea02b9ecea671865e4b197b9ff13ad4fa1"
+hash = "30442c57eeac6073a1fc795b74d21e45f6434a6c"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5448951
+file-id = 6263691
 project-id = 943564

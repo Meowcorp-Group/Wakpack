@@ -1,13 +1,13 @@
 name = "Vertical Slabs Compat"
-filename = "v_slab_compat-1.20-2.4.jar"
+filename = "v_slab_compat-1.20-2.5.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/DwaMaaW6/versions/Ma4xBkSW/v_slab_compat-1.20-2.4.jar"
+url = "https://cdn.modrinth.com/data/DwaMaaW6/versions/LBgTXjWr/v_slab_compat-1.20-2.5.jar"
 hash-format = "sha512"
-hash = "4018cc4043e8b5b2b75544e797228818cda43d21467c48feb243a551864d2e5278e33a407c5b28b22eb7e3227f0fe88bbb888248655253e2f0aa8ad4f8bbaa94"
+hash = "701bdbcb150f8f50763d0e65af3466a6d8571629146155d672f36e0f04eb3b937ab247c3a029652c0fdc3aed53d22302a5c4d0d41d34f3babf75c8995f080f71"
 
 [update]
 [update.modrinth]
 mod-id = "DwaMaaW6"
-version = "Ma4xBkSW"
+version = "LBgTXjWr"
