@@ -254,6 +254,11 @@ hash = "3814c25e243d7c5bd7f47e6f8870bdf264dcafd279ac4c84b0392bf00f4ac227"
 metafile = true
 
 [[files]]
+file = "mods/cb-multipart.pw.toml"
+hash = "37eb5758f4500d08e2bca3a3a75849baf117287e1d6e22fb0fbfbb28a5ea7c92"
+metafile = true
+
+[[files]]
 file = "mods/cc-tweaked.pw.toml"
 hash = "457f82eb5d7b278e706d1c544ffb4186b6e8d45ff69f6af03d92e9c2758b8a94"
 metafile = true
@@ -286,6 +291,11 @@ metafile = true
 [[files]]
 file = "mods/clumps.pw.toml"
 hash = "903352ffbd84d4b95fed905893f4715d9c3f88ec9fff6fb06f6e359e0b839dc3"
+metafile = true
+
+[[files]]
+file = "mods/codechicken-lib.pw.toml"
+hash = "c93aa0b2389ae4dd6fbd83ffbca5fc2f6307885dd5a21e776fe4a74278e3966c"
 metafile = true
 
 [[files]]
@@ -1124,11 +1134,6 @@ hash = "c267d39e15eee2203a0773569d9dbc28fab80b764cc60119cfe30a650e954fd7"
 metafile = true
 
 [[files]]
-file = "mods/more-red.pw.toml"
-hash = "ea4a8be0d3d889f0240a975a2ba25d8c39c29900fe47de950b667dd7f5c69a88"
-metafile = true
-
-[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "679fa8f3b49b9ed3fbcb29d6ccdb99bce465faa01f9cec000464ac8d4fbe134f"
 metafile = true
@@ -1261,6 +1266,41 @@ metafile = true
 [[files]]
 file = "mods/potionsmaster.pw.toml"
 hash = "8a8f4f421a80fb76e7ac32ffc18d824b008b775c963902b3528c2a2e82551298"
+metafile = true
+
+[[files]]
+file = "mods/project-red-core.pw.toml"
+hash = "4d59e746d59786bdf7431fdb5cd2e7c2c36f079c693b3bed54476681ae3206bf"
+metafile = true
+
+[[files]]
+file = "mods/project-red-expansion.pw.toml"
+hash = "5dce87c31cae606b051dd3d22a4ef26279b433e32401993d6ca757b35e090783"
+metafile = true
+
+[[files]]
+file = "mods/project-red-exploration.pw.toml"
+hash = "c1bd45a4002f2d1eec387842b003615e02ce03e98561e2c79ddcdd1819806785"
+metafile = true
+
+[[files]]
+file = "mods/project-red-fabrication.pw.toml"
+hash = "1d01d7d104933f1d0ad40f9d724878ba03298997cc59d6f9a663a7d5ec525d92"
+metafile = true
+
+[[files]]
+file = "mods/project-red-illumination.pw.toml"
+hash = "bd2f19bb87df2bba7463db458fb21e742256593499ba10afb9073962daa21e52"
+metafile = true
+
+[[files]]
+file = "mods/project-red-integration.pw.toml"
+hash = "b0a4ca3cdbe9ab4053ef54ce4f5d7e469f5a497a604cc77058fbf696cd046eab"
+metafile = true
+
+[[files]]
+file = "mods/project-red-transmission.pw.toml"
+hash = "e6c5f38520d769480f93166813079420a497c36f3130524cc48e3280d3d81d65"
 metafile = true
 
 [[files]]

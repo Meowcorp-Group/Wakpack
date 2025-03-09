@@ -1,0 +1,13 @@
+name = "Project Red Exploration"
+filename = "ProjectRed-1.20.1-4.20.1-beta+4-exploration.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/TVQMH6pX/versions/jQA525wV/ProjectRed-1.20.1-4.20.1-beta%2B4-exploration.jar"
+hash-format = "sha512"
+hash = "dbdea34d11a478e448f59133756e3e99f34bbacfda76698344931125cbd655c819198a06271bafe16e9b8282fce3b9fff7e26ab8c610360d974417c275789af7"
+
+[update]
+[update.modrinth]
+mod-id = "TVQMH6pX"
+version = "jQA525wV"
