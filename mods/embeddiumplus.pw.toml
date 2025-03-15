@@ -1,6 +1,6 @@
 name = "Embeddium++"
 filename = "chloride-FORGE-mc1.20.1-v1.5.2.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/yD9qW65f/versions/kIP9iyZi/chloride-FORGE-mc1.20.1-v1.5.2.jar"

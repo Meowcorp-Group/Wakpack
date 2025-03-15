@@ -1,6 +1,6 @@
 name = "pv-addon-whisper"
 filename = "pv-addon-whisper-1.1.0.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/pZxauj81/versions/ZgizC1Oe/pv-addon-whisper-1.1.0.jar"

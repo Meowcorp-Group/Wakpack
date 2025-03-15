@@ -1,6 +1,6 @@
 name = "Damage Numbers"
 filename = "damagenumbers-1.4.0-forge.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/iWdXs2dQ/versions/LDcDBWsF/damagenumbers-1.4.0-forge.jar"

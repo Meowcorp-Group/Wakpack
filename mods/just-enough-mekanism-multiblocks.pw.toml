@@ -1,6 +1,6 @@
 name = "Just Enough Mekanism Multiblocks"
 filename = "JustEnoughMekanismMultiblocks-1.20.1-4.10.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/kRaE85yQ/versions/3BODBkqD/JustEnoughMekanismMultiblocks-1.20.1-4.10.jar"
