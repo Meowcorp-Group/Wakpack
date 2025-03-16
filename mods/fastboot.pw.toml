@@ -1,6 +1,6 @@
 name = "FastBoot"
 filename = "fastboot-1.20.x-1.2.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/nRL5uFe0/versions/L7hAkvRy/fastboot-1.20.x-1.2.jar"

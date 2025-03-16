@@ -1,6 +1,6 @@
 name = "Entity Culling"
 filename = "entityculling-forge-1.7.3-mc1.20.1.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/NNAgCjsB/versions/SdwRMvNg/entityculling-forge-1.7.3-mc1.20.1.jar"
