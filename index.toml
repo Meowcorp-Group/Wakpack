@@ -592,11 +592,6 @@ hash = "2fcea0bdf1c046a408cf5b2fb163a0cfbb826ba221a0fa1bec74e4df25b040ff"
 metafile = true
 
 [[files]]
-file = "mods/distanthorizons.pw.toml"
-hash = "276e1986d17845723e3ff29ba3fab5ca02b3647b1ae85de612408d3aa621e997"
-metafile = true
-
-[[files]]
 file = "mods/does-it-tick.pw.toml"
 hash = "393d87e7f52a2f9552255e1e28843e51b8679254a34216d0134ea4865977d7c2"
 metafile = true
