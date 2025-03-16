@@ -184,7 +184,7 @@ metafile = true
 
 [[files]]
 file = "mods/athena-ctm.pw.toml"
-hash = "49ef0b29b650084f38aac8faf1537b966f1c976029b1df48bb72a614c35a9641"
+hash = "e11ddca37c00c8cdf8ee89c7b59df544f50966d2d6c5b016916f023afb98c02e"
 metafile = true
 
 [[files]]
@@ -229,7 +229,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-ping-display.pw.toml"
-hash = "7bc483bddd275151ac10eba72fdc73b19ac33e07db2482e351eac96790b6387c"
+hash = "777eb31bb0687b66bec8f9e5c3cf3b43030add8fcdf3f0c7db07f0e30208a820"
 metafile = true
 
 [[files]]
@@ -279,7 +279,7 @@ metafile = true
 
 [[files]]
 file = "mods/builtin-servers.pw.toml"
-hash = "89803c809e757f77fcd4fc321e55c1575b46e08e8220e4c9fd978fd7c77124be"
+hash = "98776d93b938c8fc4ffa5818b8e4b8686698feec9fef1e60235d3a368a2cbfa9"
 metafile = true
 
 [[files]]
@@ -549,7 +549,7 @@ metafile = true
 
 [[files]]
 file = "mods/damagenumbers.pw.toml"
-hash = "c4404fcf018c1db9ed5c1d609eb6add530190a55995e51f6aa5076f17bae160f"
+hash = "473a414c101de6ab7c38e475ff5c315b9685e423a9ea42a0dbe04a8d8d802266"
 metafile = true
 
 [[files]]
@@ -584,7 +584,7 @@ metafile = true
 
 [[files]]
 file = "mods/ding.pw.toml"
-hash = "f52dd9a41a07d4916262fb13a49715679011f86d12d6925edc1fa5479f4bd242"
+hash = "2fcea0bdf1c046a408cf5b2fb163a0cfbb826ba221a0fa1bec74e4df25b040ff"
 metafile = true
 
 [[files]]
@@ -644,7 +644,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "7e760286c1ef73a5fe82e2ca8b542672eb34b86a36cf44eb8b3e48ac94c40d0e"
+hash = "5ec0c37f3f4ad07a40c10376668bca80334ddb7ad2bab06eb4de8f7aac339c8e"
 metafile = true
 
 [[files]]
@@ -654,7 +654,7 @@ metafile = true
 
 [[files]]
 file = "mods/emoji-type.pw.toml"
-hash = "319e7875e2d76a951a0cb125ec5be46e5170bb6998737fa9f46ec40abd74e375"
+hash = "3faf2fe6e27804bb15a0217167d8880e05e24d3b5bfff6f3241721875f0eb0ac"
 metafile = true
 
 [[files]]
@@ -699,7 +699,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "a5653971e1de05445581727a2f96dda7d7fba7b85d2f4e2df01e474e1c16199a"
+hash = "cc4926dece87e61770569a0c558f3c2e674e036a92939afe93058d8c4263b96f"
 metafile = true
 
 [[files]]
@@ -844,12 +844,12 @@ metafile = true
 
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
-hash = "777d296a69b055c91098a40fef28af395b8bf82281339d9ee997dc0e2fd31cb1"
+hash = "f792f78aeaccfe16c55999ebe8b2f608704076cfb45ecd538633c71c7af036e5"
 metafile = true
 
 [[files]]
 file = "mods/geckoanimfix.pw.toml"
-hash = "6fddd327be5321c2f8d24ec1db5a603369b046ffa154f0492f150198c4db455e"
+hash = "f78c94f42ffaf5365f45b58f83545ced3dc9ae0cf075412e7710079e163eed28"
 metafile = true
 
 [[files]]
@@ -1079,7 +1079,7 @@ metafile = true
 
 [[files]]
 file = "mods/longer-chat-history.pw.toml"
-hash = "6717830ef4132661e0450e8511a14ca97f6ed7f9b5982b8f8a9968856eb984f5"
+hash = "686fa9e001d88a8d6209426fbe13fb84a13fc9e1d72cf02717e3bbee4dec3d86"
 metafile = true
 
 [[files]]
@@ -1219,7 +1219,7 @@ metafile = true
 
 [[files]]
 file = "mods/modelfix.pw.toml"
-hash = "e5a9ce202fdaa491f9ff48e2392f91837fb0ce9973a49abf5e1af44843791266"
+hash = "ab170eabaeec3e80c59e850a7d8aee32edfffd6a1e40e2c2f44575c69d122054"
 metafile = true
 
 [[files]]
@@ -1254,7 +1254,7 @@ metafile = true
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
-hash = "b375f3bbdec0ad58758bcbecea9329e2bdfb10289fc43e314cc43eb4da42069f"
+hash = "679fa8f3b49b9ed3fbcb29d6ccdb99bce465faa01f9cec000464ac8d4fbe134f"
 metafile = true
 
 [[files]]
@@ -1274,7 +1274,7 @@ metafile = true
 
 [[files]]
 file = "mods/my-server-is-compatible.pw.toml"
-hash = "edeb9fe925e29239a840e6d24fa92f43014f75e02e80ddaf7e88193d0ae33b6d"
+hash = "27cd835739eabf2e0dc092cb9670a954c6a94c193ce587178a1d1f69504fbdc1"
 metafile = true
 
 [[files]]
@@ -1334,7 +1334,7 @@ metafile = true
 
 [[files]]
 file = "mods/oculus.pw.toml"
-hash = "198fcf693721326f338e2fa3505a93802b0a52edb6567e82b232bb3a93d5f6bc"
+hash = "f83b253ca6a8e6f2f847952704da0e1fb00e65cbb10b7c9cb15d1a1780618da0"
 metafile = true
 
 [[files]]
@@ -1649,12 +1649,12 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-dynamic-lights.pw.toml"
-hash = "52e499516df34d946be430b4d3bac7c85b662c95103ff272255454adbeebad86"
+hash = "82bb7cd6c8b68bb1831bb7c374bd316b6403cd01195d582f19c31076c908953a"
 metafile = true
 
 [[files]]
 file = "mods/sodium-options-api.pw.toml"
-hash = "503634dc7d10efa8f1cb469fe94ffd34f0c66bd7d7d9db32236b93a3e81a13fd"
+hash = "75a60e6b443b351b7a4a78ffce7c71e44b3e20ca10c374aea1de516c785d6e2d"
 metafile = true
 
 [[files]]
@@ -1909,7 +1909,7 @@ metafile = true
 
 [[files]]
 file = "mods/yeetus-experimentus.pw.toml"
-hash = "c77a69c5e96c789a62788226fff39edb1e48ec5ba10be45c2c171b56ed86c051"
+hash = "f1ab9504f1664dd80407ea5c44425723a6621e0092051bd23dc5241757bccb17"
 metafile = true
 
 [[files]]
@@ -1919,7 +1919,7 @@ metafile = true
 
 [[files]]
 file = "mods/zume.pw.toml"
-hash = "5f93c4032ce70f41db4e0cc80356e80320f2089d230101dc0f7dab89cdc4fc3b"
+hash = "434ac58bf0c398eb06d03856a3de1edf30aba72ff11ac953bda99e34132c0376"
 metafile = true
 
 [[files]]
