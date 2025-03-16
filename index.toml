@@ -25,9 +25,8 @@ file = "config/jei/jei-client.ini"
 hash = "94d11fd1200ede5773ed7d45ccea5e16d4839d4f922b442883be44d068bcc1e4"
 
 [[files]]
-file = "config/openloader/data/repurposed-structures-farmers-delight-compat.pw.toml"
-hash = "83ddbb3b1fd548de53a940282e902d499e2484d5dd4c2d90d6aa7f229d3fe6eb"
-metafile = true
+file = "config/mods_optimizer/config.toml"
+hash = "0d5b97f4a1fd01921df23dae3e3b489d0b5e25b7a9ef4bccc5c9ac112345ea17"
 
 [[files]]
 file = "config/quark-common.toml"
@@ -48,6 +47,11 @@ hash = "380375e29a68ad1b4a186e1167d48cab0f3281d741452eb0a49bb672a5529924"
 [[files]]
 file = "defaultconfigs/ftbchunks-world.snbt"
 hash = "8a7b6bf1662db25b593713dc6d04c926f395afe863ee59adba769c12279423a9"
+
+[[files]]
+file = "kubejs/data/repurposed-structures-farmers-delight-compat.pw.toml"
+hash = "83ddbb3b1fd548de53a940282e902d499e2484d5dd4c2d90d6aa7f229d3fe6eb"
+metafile = true
 
 [[files]]
 file = "kubejs/server_scripts/recipes.js"
@@ -1335,11 +1339,6 @@ metafile = true
 [[files]]
 file = "mods/oculus.pw.toml"
 hash = "f83b253ca6a8e6f2f847952704da0e1fb00e65cbb10b7c9cb15d1a1780618da0"
-metafile = true
-
-[[files]]
-file = "mods/open-loader.pw.toml"
-hash = "a667c1e826438c5d879ff19c99d1544b726eb96e52bd9567ff40de908cf144ec"
 metafile = true
 
 [[files]]
