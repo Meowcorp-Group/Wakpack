@@ -248,7 +248,7 @@ metafile = true
 
 [[files]]
 file = "mods/bluemap.pw.toml"
-hash = "af939c80935ba51d456613436eec5e064dcbbe0b5603c28b41d0aa693a69be3a"
+hash = "121311026aa3bb351153cfe527757261947d04ef6cc79768a53c0b058839abec"
 metafile = true
 
 [[files]]
@@ -523,7 +523,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-track-map.pw.toml"
-hash = "6170744bc64be871375a47e9e32c85afb4020c60da7d7da5007b0acc8e725d8d"
+hash = "63f2413981be629df9c32e5549e06cf097078bf8ce0bd8c3bfe16de7ca0a18c2"
 metafile = true
 
 [[files]]
@@ -923,7 +923,7 @@ metafile = true
 
 [[files]]
 file = "mods/integrated-rest.pw.toml"
-hash = "a89b0a5a0fd962746f172a9f94f1b2aa84ff7c19a7465621db4025d84b854535"
+hash = "5effda7bb317634700c36bcfe3488912331c13e031740af6c7f3bf89b19da3d6"
 metafile = true
 
 [[files]]
