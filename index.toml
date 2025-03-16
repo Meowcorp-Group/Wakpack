@@ -923,7 +923,7 @@ metafile = true
 
 [[files]]
 file = "mods/integrated-rest.pw.toml"
-hash = "5effda7bb317634700c36bcfe3488912331c13e031740af6c7f3bf89b19da3d6"
+hash = "a89b0a5a0fd962746f172a9f94f1b2aa84ff7c19a7465621db4025d84b854535"
 metafile = true
 
 [[files]]
