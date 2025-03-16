@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".githooks/pre-commit"
-hash = "20790d868df2190678b9f37569b107eb19ba326df19c4fccc2225af6d44dd614"
-
-[[files]]
 file = "config/builtinservers.json"
 hash = "8fe2df4c06a35c9c2b8e8b137feb2eceec45f81084cc357683e2fb4828e4cb88"
 
