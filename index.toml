@@ -1377,11 +1377,6 @@ hash = "045d582e2c534c5bb96d7336b4ae2cd12692c6de29b19ae5f1dbfd8759c03b03"
 metafile = true
 
 [[files]]
-file = "mods/plasmo-voice.pw.toml"
-hash = "e54f9e06639cd540c452ffe16811bc18f87c99792187269a00e5045bcffb4da1"
-metafile = true
-
-[[files]]
 file = "mods/platforms.pw.toml"
 hash = "a3405020853f549e0041348eb106035c43b0fbab617d8c5df52e7e6cea45b67f"
 metafile = true
@@ -1444,16 +1439,6 @@ metafile = true
 [[files]]
 file = "mods/project-red-transmission.pw.toml"
 hash = "e6c5f38520d769480f93166813079420a497c36f3130524cc48e3280d3d81d65"
-metafile = true
-
-[[files]]
-file = "mods/pv-addon-sculk.pw.toml"
-hash = "a773b5cc4ca2a6db78f6b265f4ad1dd0462391a8953d8b6d11a0cd0496341b40"
-metafile = true
-
-[[files]]
-file = "mods/pv-addon-whisper.pw.toml"
-hash = "a6e02d8026dc473531b9d0fd50bd94ad74ddb4de915ab2901534b81ebd114c63"
 metafile = true
 
 [[files]]
