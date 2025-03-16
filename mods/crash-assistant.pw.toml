@@ -1,0 +1,13 @@
+name = "Crash Assistant"
+filename = "crash_assistant-forge-1.4.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ix1qq8Ux/versions/ISbjla7N/crash_assistant-forge-1.4.3.jar"
+hash-format = "sha512"
+hash = "5e89b3583df29a8bd6a87e459e12cc88ebd8853da06f381970ca81000183d9084dc7a84bfca9952bac61b286b405b8c516ad141dc15f69172ed1028ef9b74a9e"
+
+[update]
+[update.modrinth]
+mod-id = "ix1qq8Ux"
+version = "ISbjla7N"

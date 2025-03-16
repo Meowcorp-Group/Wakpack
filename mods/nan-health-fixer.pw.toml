@@ -1,0 +1,13 @@
+name = "NaN Health Fixer"
+filename = "nanhealthfixer-1.20.1-0.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/GcowSBDA/versions/dGQVudHe/nanhealthfixer-1.20.1-0.0.1.jar"
+hash-format = "sha512"
+hash = "b33df1f6da93cf70c10ed64b7bde64338281b4e7ee4a7b316d6203fb6d2781eb7b7b721e466c1b8257396b9c6dc1d921e1630df7a8de342f3acdcc5979e4ff82"
+
+[update]
+[update.modrinth]
+mod-id = "GcowSBDA"
+version = "dGQVudHe"

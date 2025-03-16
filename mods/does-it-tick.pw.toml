@@ -1,0 +1,13 @@
+name = "Does It Tick?"
+filename = "does_it_tick-forge-1.1.0-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vmg6jaPW/versions/52MLYl07/does_it_tick-forge-1.1.0-1.20.1.jar"
+hash-format = "sha512"
+hash = "f2da5d1a4fc27e13e34c31452cdb579a89672eea0bb82c0f0608aa96181bdda9268abea9491227c46860c9c8b1065ae687e07dc3bf282814c2c9def4cf6f4d66"
+
+[update]
+[update.modrinth]
+mod-id = "vmg6jaPW"
+version = "52MLYl07"
