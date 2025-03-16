@@ -399,7 +399,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
-hash = "eea69f3a65f3538943c7d38e3176b4eea76b36147e53ce5ca46cb9531a618364"
+hash = "4063abe583282834b2f78e3b3e6b9ee4d231a680f74c020e405a4ef196f21ee4"
 metafile = true
 
 [[files]]
@@ -1814,7 +1814,7 @@ metafile = true
 
 [[files]]
 file = "mods/toadlib.pw.toml"
-hash = "06ad30d389c51406aabde6861e13817b04131ed3756b52797ab73eac3cde37aa"
+hash = "5594552d70db2a139ccf453ae7ae4765f31dd6b41ca17f71a60044f32e7ab345"
 metafile = true
 
 [[files]]
