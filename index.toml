@@ -708,11 +708,6 @@ hash = "265ce1d2d413eeffb72ce4b372b4aa12469894e8bdd9da16e53b1b6c9257b2bb"
 metafile = true
 
 [[files]]
-file = "mods/exordium.pw.toml"
-hash = "8108d70d105129e0ffb80090eade74fae9c8d5e3c3798f21e5cd86422d43e757"
-metafile = true
-
-[[files]]
 file = "mods/exposure.pw.toml"
 hash = "286018120c36b3df87f01d2ed7b94a8e0538279a38c81e37fc805200fe2dac84"
 metafile = true
